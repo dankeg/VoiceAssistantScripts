@@ -1,7 +1,7 @@
 # VoiceAssistantScripts
 Code and scripts used for the Voice Assistant Profiling Project
 
-seleniumscript allows text web searches to be prompted to google chrome using selenium
+seleniumscript allows text web searches to be prompted to google chrome using selenium.
 questions.txt is the list of questions referenced by seleniumscript. Replace the content of this file with a new question on every line, similar to the questions already in the file
 
 
